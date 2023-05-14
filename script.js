@@ -22,7 +22,7 @@ function rot13(encodedStr){
 		// }
 	}
 
-	decodedArr.join("");
+	//decodedArr.join("");
   return ;//return decodedArr
 }
 
